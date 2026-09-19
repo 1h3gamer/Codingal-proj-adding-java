@@ -5,7 +5,6 @@ class Main {
 
         int z = x + y;
 
-        // Step 3: Display the value of z
         System.out.println("The sum is: " + z);
     }
 }
